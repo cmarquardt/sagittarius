@@ -42,15 +42,12 @@ to add an institution logo to the poster.
 
 # Themes
 
-Gemini currently includes three color themes:
+Sagittarius currently includes the three original Gemini color themes:
 
 * `gemini` (default)
 * `mit`
 * `labsix`
 
-The alternative themes are intended to be inspiration for you to make your own
-color theme. You're highly recommended to make your own color theme (it's
-really easy!) or use the default Gemini theme.
 
 <!--
 ## MIT theme
@@ -78,14 +75,11 @@ really easy!) or use the default Gemini theme.
 
 # Contributing
 
-Contributions to Gemini such as bug reports, new themes, and new poster
-components are greatly appreciated! Given the subjective nature of design,
-you're encouraged to open an issue or pull request early to get feedback before
-investing a lot of time in implementing a new feature.
+As usual - please raise an issue, and feel free to put in pull requests!
 
 # License
 
-Copyright (c) 2018-2019 Anish Athalye. Released under the MIT License. See
+Copyright (c) 2018-2019 Anish Athalye for the orignal Gemini. Released under the MIT License. See
 [LICENSE.md][license] for details.
 
 [beamerposter]: https://github.com/deselaers/latex-beamerposter
