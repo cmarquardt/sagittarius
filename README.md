@@ -18,7 +18,8 @@ Sagittarius is a modern LaTeX [beamerposter] theme based on Anish Athalye's exce
 * A TeX installation that includes [LuaTeX] or [XeTeX]
 * LaTeX package dependencies including beamerposter (these usually come with
   your TeX installation, but if not, you can get them from [CTAN])
-* [Raleway] and [Lato] for the base themes; both available under an Open Font License
+* [Raleway] and [Lato] for the base themes; both are available under an Open
+  Font License, and both are available in the [TeXLive]/[MacTeX] distributions
 
 # Usage
 
@@ -89,6 +90,8 @@ Copyright (c) 2018-2019 Anish Athalye for the orignal Gemini. Released under the
 [CTAN]: https://ctan.org/
 [Raleway]: https://www.fontsquirrel.com/fonts/raleway
 [Lato]: https://www.fontsquirrel.com/fonts/lato
+[TeXLive]: https://www.tug.org/texlive/
+[MacTeX]: https://www.tug.org/mactex/
 [license]: LICENSE.md
 <!--
 [FAQ]: https://github.com/anishathalye/gemini/wiki/FAQ
